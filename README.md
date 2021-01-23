@@ -17,7 +17,7 @@ Very simple: it's an aggregator of open source icons, illustrations and graphics
 
 ### What do we need help with?
 
-- 🐦 **Social Media (really, just Twitter) **  
+- 🐦 **Social Media (really, just Twitter)**  
   Need someone to post a few times a week with different icon sets we have available, and just generally engage with other designers and the design community. Be yourself. Be quirky. Have fun.
 
   What this looks like:  
