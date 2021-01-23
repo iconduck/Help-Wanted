@@ -37,6 +37,8 @@ Very simple: it's an aggregator of open source icons, illustrations and graphics
   What this looks like:
   - Writing a Safari Extension
   - Building an Electron App
+  - Crafting (running out of synonyms here..) an iPhone Keyboard app
+  - Coding plugins for popular platforms (eg. WordPress, Shopify, etc)
   - etc etc etc.
 
 ### 🎣 What now?
