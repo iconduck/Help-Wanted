@@ -31,7 +31,7 @@ Very simple: it's an aggregator of open source icons, illustrations and graphics
   - Google Sheets! You scour the web, and keep track of EVERY icon set you can find. If it's not clear what the license is, or whether re-distribution would be appropriate, you reach out to the designer(s) and ask.
   - Really, just be organized, hit up that Google Sheet, and track things about icon sets
 
-- 👩🏿‍💻 **Developers**
+- 👩🏿‍💻 **Developers**  
   Have someone support building Iconduck (ideally, with everything being open sourced).
 
   What this looks like:
