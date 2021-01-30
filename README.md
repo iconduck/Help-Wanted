@@ -4,7 +4,7 @@
 This document is intended to give details on the help I'm looking for. My name's Oliver ([@onassar](https://github.com/onassar/)), and I started [Iconduck](https://iconduck.com/) as a side project. I'd really love to involve as many people as possible to make it a great place for developers, designers and anyone else, to find and grab icons and illustrations.
 
 ### 📸 Obligatory Screenshot
-![](https://i.imgur.com/IAOsFdf.png)
+![](https://i.imgur.com/oCPg56P.png)
 
 ### 🤷🏻‍♂️ What's Iconduck?
 Very simple: it's an aggregator of open source icons, illustrations and graphics. There's thousands (maybe millions) of them out there, and Iconduck wants to pull them all together. Additionally, our goals are:
